@@ -31,6 +31,25 @@
         <spring-format.version>0.0.19</spring-format.version>
 
     </properties>
+    
+    <developers>
+	    <developer>
+	      <id>japarejo</id>
+	      <name>Jose Antonio Parejo</name>
+	      <email>japarejo@us.es</email>
+	      <url>http://www.japarejo.es</url>
+	      <organization>US</organization>
+	      <organizationUrl>http://www.us.es</organizationUrl>
+	      <roles>
+	        <role>architect</role>
+	        <role>developer</role>
+	      </roles>
+	      <timezone>Europe/Madrid</timezone>
+	      <properties>
+	        <picUrl>http://www.example.com/jdoe/pic</picUrl>
+	      </properties>
+	    </developer>
+	</developers>
 
     <dependencies>
         <!-- Spring and Spring Boot dependencies -->
