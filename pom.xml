@@ -34,6 +34,23 @@
     
     <developers>
 	    <developer>
+	      <id>josemgarcia</id>
+	      <name>Jose Maria Garcia</name>
+	      <email>josemgarcia@us.es</email>
+	      <url>http://www.josemgarcia.es</url>
+	      <organization>US</organization>
+	      <organizationUrl>http://www.us.es</organizationUrl>
+	      <roles>
+	        <role>architect</role>
+	        <role>developer</role>
+	      </roles>
+	      <timezone>Europe/Madrid</timezone>
+	      <properties>
+	        <picUrl>http://www.example.com/jdoe/pic</picUrl>
+	      </properties>
+	    </developer>
+      
+      <developer>
 	      <id>japarejo</id>
 	      <name>Jose Antonio Parejo</name>
 	      <email>japarejo@us.es</email>
@@ -50,6 +67,7 @@
 	      </properties>
 	    </developer>
 	</developers>
+
 
     <dependencies>
         <!-- Spring and Spring Boot dependencies -->
